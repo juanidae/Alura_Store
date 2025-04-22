@@ -28,3 +28,13 @@ Este análisis busca apoyar a las áreas de marketing, ventas y operaciones en l
 ├── outputs/
 │   ├── graficos/              # Gráficos generados por el análisis
 │   └── insights.txt           # Conclusiones clave
+
+# 🛒 Análisis de Datos de Ventas para Tiendas
+
+![Versión](https://img.shields.io/badge/versión-v1.0.0-blue)
+![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
+![Python](https://img.shields.io/badge/python-3.11-green)
+![Última actualización](https://img.shields.io/github/last-commit/Juanidae/Alura_Store)
+![Lenguajes](https://img.shields.io/github/languages/top/Juanidae/Alura_Store)
+![Actualizado](https://img.shields.io/badge/actualizado-abril%2021%2C%202025-red)
+
